@@ -1,0 +1,4 @@
+- Always follow GLOBAL_RULES first
+- Use ts-core for architecture decisions
+- Use ts-standards for validation
+- Use ts-write for code generation
