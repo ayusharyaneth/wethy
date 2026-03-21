@@ -1,0 +1,4 @@
+- Always use TypeScript strict mode
+- Prefer functional patterns
+- Avoid any
+- Follow modular architecture
