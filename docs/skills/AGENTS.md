@@ -1,4 +1,5 @@
 - Always follow GLOBAL_RULES first
-- Use ts-core for architecture decisions
-- Use ts-standards for validation
-- Use ts-write for code generation
+- Use ts-core for architecture and design decisions
+- Use ts-standards to validate correctness and enforce discipline
+- Use ts-write for implementation
+- Never skip validation before final output
