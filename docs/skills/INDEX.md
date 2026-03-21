@@ -1,3 +1,4 @@
 # Skills Index
-
-- TypeScript Best Practices → ./typescript-best-practices/SKILL.md
+- ts-core → ./ts-core/SKILL.md
+- ts-standards → ./ts-standards/SKILL.md
+- ts-write → ./ts-write/SKILL.md
