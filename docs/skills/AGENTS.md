@@ -1,7 +1,7 @@
 ## Enforcement
 
 - All rules are mandatory
-- Do not generate code that violates any rule
+- Do not generate code that violates any rule. If constraints cannot be satisfied, request clarification instead.
   
 ---
 
