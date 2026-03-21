@@ -1,5 +1,10 @@
 # AGENTS
 
+## Priority Order
+GLOBAL_RULES > ts-core > ts-standards > ts-write
+
+---
+
 ## Enforcement
 - All rules are mandatory
 - Do not generate code that violates any rule
