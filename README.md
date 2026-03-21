@@ -1,9 +1,12 @@
 # wethy
 
+## AI Coding Skills System
 
+This repository provides a structured AI coding system with:
 
-## AI Skills
+- Global rules for strict enforcement
+- Skill-based architecture (design, validation, implementation)
+- Agent-based execution flow
 
-This repository includes reusable AI coding skills and best practices.
-
-See: /docs/skills/INDEX.md
+Entry point:
+docs/skills/INDEX.md
